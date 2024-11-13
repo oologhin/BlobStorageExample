@@ -773,11 +773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ologhin/BlobStorageExample/BlobStorageExample.csproj",
+      "projectUniqueName": "/home/ologhin/BlobStorageExample/BlobStorageExample/BlobStorageExample.csproj",
       "projectName": "BlobStorageExample",
-      "projectPath": "/home/ologhin/BlobStorageExample/BlobStorageExample.csproj",
+      "projectPath": "/home/ologhin/BlobStorageExample/BlobStorageExample/BlobStorageExample.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/ologhin/BlobStorageExample/obj/",
+      "outputPath": "/home/ologhin/BlobStorageExample/BlobStorageExample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

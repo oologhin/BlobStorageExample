@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "caPwlES8otPWr9dRL2pl8YK7ZfesJbma/Xiq8t41AfGTk/WpQHAu1q0WFXAMMciNSu+olE8EYDxKbVy7MWUHDw==",
+  "dgSpecHash": "sZ6J30921RXOVd2Be87tCAUV0UTWpW0i+/jv//SuhYvsijXBPEquneDZr7lmNphPOgZODS2pUdT2n3+4yTB+og==",
   "success": true,
-  "projectFilePath": "/home/ologhin/BlobStorageExample/BlobStorageExample.csproj",
+  "projectFilePath": "/home/ologhin/BlobStorageExample/BlobStorageExample/BlobStorageExample.csproj",
   "expectedPackageFiles": [
     "/root/.nuget/packages/azure.core/1.44.1/azure.core.1.44.1.nupkg.sha512",
     "/root/.nuget/packages/azure.identity/1.13.1/azure.identity.1.13.1.nupkg.sha512",

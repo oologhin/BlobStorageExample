@@ -11,7 +11,7 @@ namespace BlobStorageExample
         {
             Console.WriteLine("Hello, World!");
 
-            // Define your connection string (make sure to replace this with your actual connection string)
+            // In Azure in the storage account, search for Access keys. Inside you will see Connection string, click "Show keys" to reveal it.
             string connectionString = "";
 
             // Create a BlobServiceClient to interact with your storage account
